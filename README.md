@@ -25,6 +25,7 @@ Key Challenges:
     3. Obtaining the best accuracy with very limited data points.
     
 Potential Outcomes:
+
     1. The solution would help the respective Departments/Ministry or State Govt about the number of grievances that would be expected in future, so that they can on be alert to ensure timely redressal of these grievances.
     2. It would help to have an idea about the main area of focus needed based on the number of grievances recieved.
     3. Understand the increasing/decreasing trend of the grievances in all the classes so as to evaluate the performance of each class.
